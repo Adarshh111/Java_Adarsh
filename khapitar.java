@@ -1,5 +1,5 @@
-public class tanishka {
+public class khapitar {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, khapitar!");
     }
 }
